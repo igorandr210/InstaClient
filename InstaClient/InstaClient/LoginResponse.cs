@@ -1,4 +1,4 @@
-﻿namespace InstaInterface
+﻿namespace InstaClient
 {
     public class LoginResponse
     {

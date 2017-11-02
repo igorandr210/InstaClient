@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using RestSharp.Deserializers;
 
-namespace InstaInterface
+namespace InstaClient
 {
     public class UserInfo
     {

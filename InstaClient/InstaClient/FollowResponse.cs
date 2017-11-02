@@ -1,7 +1,7 @@
 ﻿using RestSharp.Deserializers;
 
 
-namespace InstaInterface
+namespace InstaClient
 {
     public class FollowResponse
     {

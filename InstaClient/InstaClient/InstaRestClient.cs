@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Net;
 using RestSharp;
-namespace InstaInterface
+namespace InstaClient
 {
     public class InstaRestClient : RestClient
     {
